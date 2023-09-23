@@ -1,6 +1,5 @@
 Hi, I’m @sidallet, 20 year old from Clermont-Ferrand.
-👀 I’m interested in new technologies, astronomy and economics which are fields of interest that I cultivate every day.
-📫 You can contact me at my email address: simon.dallet63@gmail.com
+I'm currently studying computer engineering, specialising in networks and cybersecurity. 
 
 <!---
 sidallet/sidallet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
